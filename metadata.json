@@ -1,0 +1,10 @@
+{
+  "name": "DartForm AI",
+  "description": "Real-time and video-upload biomechanical dart throwing coach powered by client-side MediaPipe Pose Landmarker.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
